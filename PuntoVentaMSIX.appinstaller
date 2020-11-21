@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://vv-developers.github.io/PuntoVentaMSIX.appinstaller"
+	Version="1.0.22.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	<MainBundle
+		Name="PuntoVentaMSIX"
+		Version="1.0.22.0"
+		Publisher="CN=Jorge Gutierrez, O=Valle Verde, C=MX"
+		Uri="https://vv-developers.github.io/PuntoVentaMSIX_1.0.22.0_Debug_Test/PuntoVentaMSIX_1.0.22.0_x86_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0"
+			ShowPrompt="true"
+			UpdateBlocksActivation="true" />
+	</UpdateSettings>
+</AppInstaller>
