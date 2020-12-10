@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://vv-developers.github.io/BackOffice/BackOfficeMSIX.appinstaller"
-	Version="1.0.118.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	Version="1.0.119.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="BackOfficeMSIX"
-		Version="1.0.118.0"
+		Version="1.0.119.0"
 		Publisher="CN=Jorge Gutierrez, O=Valle Verde, C=MX"
-		Uri="https://vv-developers.github.io/BackOffice/BackOfficeMSIX_1.0.118.0_Test/BackOfficeMSIX_1.0.118.0_x86.msixbundle" />
+		Uri="https://vv-developers.github.io/BackOffice/BackOfficeMSIX_1.0.119.0_Test/BackOfficeMSIX_1.0.119.0_x86.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0"
